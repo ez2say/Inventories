@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8a39e53a99662d47975c380ca8ae6cb, type: 3}
+  m_Name: InventoryConfig
+  m_EditorClassIdentifier: Assembly-CSharp::InventorySystem.InventoryConfig
+  _width: 6
+  _height: 4
+  _slotPrefab: {fileID: 3658733164851106558, guid: 8b36614219651ce4f990abddde3a1c54, type: 3}
+  _inventoryPanelPrefab: {fileID: 2398329285172439879, guid: 64260185b702f2b43a48655334334c39, type: 3}
+  _emptySlotSprite: {fileID: 21300000, guid: cae2a4200444a2e48a2a6408cdb8b60d, type: 3}
